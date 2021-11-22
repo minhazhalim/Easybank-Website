@@ -1,2 +1,2 @@
-# Easybank-Landing-Page
-HTML,SASS and JavaScript Practice for Learning-Based Project
+# Easybank-Startup-Website
+An Easybank Startup Landing Page Website for Small Business
